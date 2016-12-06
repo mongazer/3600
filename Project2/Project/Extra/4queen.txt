@@ -1,0 +1,2 @@
+4queen:
+like the famous 8 queen problem. put 4 queen in the 4*4 chess board, none of two queens can attack each other by standing in different rows, columns, and diagonals. 

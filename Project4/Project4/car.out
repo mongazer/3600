@@ -1,0 +1,12 @@
+Outlook = overcast
+|---Play
+Outlook = sunny
+|---Humidity = high
+|---|---Don'tPlay
+|---Humidity = low
+|---|---Play
+Outlook = rain
+|---Windy = false
+|---|---Play
+|---Windy = true
+|---|---Don'tPlay

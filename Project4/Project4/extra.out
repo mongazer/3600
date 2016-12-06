@@ -1,0 +1,626 @@
+middle-middle-square = x
+|---top-right-square = x
+|---|---bottom-left-square = x
+|---|---|---positive
+|---|---bottom-left-square = b
+|---|---|---positive
+|---|---bottom-left-square = o
+|---|---|---bottom-right-square = x
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---negative
+|---|---|---bottom-right-square = b
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---bottom-right-square = o
+|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---negative
+|---top-right-square = b
+|---|---bottom-left-square = x
+|---|---|---positive
+|---|---bottom-left-square = b
+|---|---|---positive
+|---|---bottom-left-square = o
+|---|---|---middle-left-square = x
+|---|---|---|---middle-right-square = x
+|---|---|---|---|---positive
+|---|---|---|---middle-right-square = b
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---middle-right-square = o
+|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---middle-left-square = b
+|---|---|---|---bottom-right-square = x
+|---|---|---|---|---positive
+|---|---|---|---bottom-right-square = b
+|---|---|---|---|---positive
+|---|---|---|---bottom-right-square = o
+|---|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---middle-left-square = o
+|---|---|---|---top-left-square = x
+|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---negative
+|---top-right-square = o
+|---|---bottom-left-square = x
+|---|---|---bottom-right-square = x
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---bottom-right-square = b
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---bottom-right-square = o
+|---|---|---|---middle-right-square = x
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---middle-right-square = b
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---middle-right-square = o
+|---|---|---|---|---negative
+|---|---bottom-left-square = b
+|---|---|---middle-right-square = x
+|---|---|---|---middle-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---middle-left-square = b
+|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---middle-left-square = o
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---middle-right-square = b
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---middle-right-square = o
+|---|---|---|---bottom-right-square = x
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---bottom-right-square = b
+|---|---|---|---|---positive
+|---|---|---|---bottom-right-square = o
+|---|---|---|---|---negative
+|---|---bottom-left-square = o
+|---|---|---bottom-right-square = x
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---bottom-right-square = b
+|---|---|---|---positive
+|---|---|---bottom-right-square = o
+|---|---|---|---middle-right-square = x
+|---|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---|---middle-right-square = b
+|---|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---|---middle-right-square = o
+|---|---|---|---|---negative
+middle-middle-square = b
+|---top-right-square = x
+|---|---bottom-left-square = x
+|---|---|---positive
+|---|---bottom-left-square = b
+|---|---|---positive
+|---|---bottom-left-square = o
+|---|---|---bottom-right-square = x
+|---|---|---|---middle-right-square = x
+|---|---|---|---|---positive
+|---|---|---|---middle-right-square = b
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---|---middle-right-square = o
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---bottom-right-square = b
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---negative
+|---|---|---bottom-right-square = o
+|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---positive
+|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---negative
+|---top-right-square = b
+|---|---bottom-left-square = x
+|---|---|---positive
+|---|---bottom-left-square = b
+|---|---|---positive
+|---|---bottom-left-square = o
+|---|---|---negative
+|---top-right-square = o
+|---|---bottom-left-square = x
+|---|---|---bottom-right-square = x
+|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---positive
+|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---positive
+|---|---|---bottom-right-square = b
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---negative
+|---|---|---bottom-right-square = o
+|---|---|---|---middle-right-square = x
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---|---middle-right-square = b
+|---|---|---|---|---positive
+|---|---|---|---middle-right-square = o
+|---|---|---|---|---negative
+|---|---bottom-left-square = b
+|---|---|---negative
+|---|---bottom-left-square = o
+|---|---|---negative
+middle-middle-square = o
+|---top-right-square = x
+|---|---bottom-right-square = x
+|---|---|---middle-right-square = x
+|---|---|---|---positive
+|---|---|---middle-right-square = b
+|---|---|---|---middle-left-square = x
+|---|---|---|---|---negative
+|---|---|---|---middle-left-square = b
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---middle-left-square = o
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---middle-right-square = o
+|---|---|---|---middle-left-square = x
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---middle-left-square = b
+|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---middle-left-square = o
+|---|---|---|---|---negative
+|---|---bottom-right-square = b
+|---|---|---top-middle-square = x
+|---|---|---|---top-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---negative
+|---|---|---|---top-left-square = o
+|---|---|---|---|---negative
+|---|---|---top-middle-square = b
+|---|---|---|---middle-left-square = x
+|---|---|---|---|---positive
+|---|---|---|---middle-left-square = b
+|---|---|---|---|---negative
+|---|---|---|---middle-left-square = o
+|---|---|---|---|---negative
+|---|---|---top-middle-square = o
+|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---negative
+|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---positive
+|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---negative
+|---|---bottom-right-square = o
+|---|---|---top-left-square = x
+|---|---|---|---top-middle-square = x
+|---|---|---|---|---positive
+|---|---|---|---top-middle-square = b
+|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---top-middle-square = o
+|---|---|---|---|---middle-right-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-right-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-right-square = o
+|---|---|---|---|---|---positive
+|---|---|---top-left-square = b
+|---|---|---|---negative
+|---|---|---top-left-square = o
+|---|---|---|---negative
+|---top-right-square = b
+|---|---bottom-left-square = x
+|---|---|---middle-right-square = x
+|---|---|---|---top-middle-square = x
+|---|---|---|---|---negative
+|---|---|---|---top-middle-square = b
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---top-middle-square = o
+|---|---|---|---|---bottom-middle-square = x
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---bottom-middle-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---bottom-middle-square = o
+|---|---|---|---|---|---negative
+|---|---|---middle-right-square = b
+|---|---|---|---middle-left-square = x
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---middle-left-square = b
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---middle-left-square = o
+|---|---|---|---|---positive
+|---|---|---middle-right-square = o
+|---|---|---|---middle-left-square = x
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---middle-left-square = b
+|---|---|---|---|---positive
+|---|---|---|---middle-left-square = o
+|---|---|---|---|---negative
+|---|---bottom-left-square = b
+|---|---|---negative
+|---|---bottom-left-square = o
+|---|---|---negative
+|---top-right-square = o
+|---|---bottom-left-square = x
+|---|---|---middle-right-square = x
+|---|---|---|---top-left-square = x
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---top-middle-square = x
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-middle-square = b
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---|---top-middle-square = o
+|---|---|---|---|---|---|---positive
+|---|---|---|---top-left-square = b
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---positive
+|---|---|---|---top-left-square = o
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---bottom-right-square = x
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = b
+|---|---|---|---|---|---|---positive
+|---|---|---|---|---|---bottom-right-square = o
+|---|---|---|---|---|---|---negative
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---positive
+|---|---|---middle-right-square = b
+|---|---|---|---bottom-right-square = x
+|---|---|---|---|---positive
+|---|---|---|---bottom-right-square = b
+|---|---|---|---|---positive
+|---|---|---|---bottom-right-square = o
+|---|---|---|---|---top-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---top-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---middle-right-square = o
+|---|---|---|---bottom-right-square = x
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---|---bottom-right-square = b
+|---|---|---|---|---middle-left-square = x
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = b
+|---|---|---|---|---|---positive
+|---|---|---|---|---middle-left-square = o
+|---|---|---|---|---|---negative
+|---|---|---|---bottom-right-square = o
+|---|---|---|---|---negative
+|---|---bottom-left-square = b
+|---|---|---negative
+|---|---bottom-left-square = o
+|---|---|---negative
